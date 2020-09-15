@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a Full Stack Developer freshly graduated from [Factoria F5](http://www.factoriaf5.org/).<br>
 After learning the basics of coding in **php**, regardless the language, my aim is now more TDD and clean code.<br>
-We also worked a couple of separate "exploring" sprints to check out other languages such as **Python** and **Go**.
+We also had the chance to "dip our feet" in other languages such as **Python** and **Go** over two separate "exploring" sprints.
 <br>
 ![Elena’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-GHub&theme=gruvbox)
 <br>
