@@ -22,7 +22,7 @@ We also worked a couple of separate "exploring" sprints to check out other langu
 <br>
 ![Elena’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-GHub&theme=gruvbox)
 <br>
-[<img align="left" alt="codeSTACKr | LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />elena](https://www.linkedin.com/in/elena-carballido-marin)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />elena](https://www.linkedin.com/in/elena-carballido-marin)
 <br>
 ## Bootcamp final project: **TraCE [new website](http://tracecatalunya.org)**  
 <br>
