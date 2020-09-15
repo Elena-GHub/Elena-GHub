@@ -1,4 +1,4 @@
-### Hi! My name is Elena 👋
+# Hi! My name is Elena 👋
 
 <!--
 **Elena-GHub/Elena-GHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
