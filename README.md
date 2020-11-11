@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Welcome to my GitHub Space
 
+- 😄 Pronouns: She/her
+
 I am a Full Stack Developer freshly graduated from [Factoria F5](http://www.factoriaf5.org/).<br>
 After learning the basics of coding in **php**, regardless the language, my aim is now more TDD and clean code.<br>
 We also had the chance to "dip our feet" in other languages such as **Python** and **Go** over two separate "exploring" sprints.
@@ -27,3 +29,6 @@ We also had the chance to "dip our feet" in other languages such as **Python** a
 ## Bootcamp final project: **TraCE [new website](http://tracecatalunya.org)**  
 <br>
 Besides some others that you will find below:call_me_hand:
+
+- 🔭 I’m currently working on:
+[Django tutorial - Polls app](https://github.com/Elena-GHub/DjangoTutorial)
