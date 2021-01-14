@@ -30,7 +30,7 @@ We also had the chance to "dip our feet" in other languages such as **Python** a
 <br>
 Besides some others that you will find below:call_me_hand:
 
-- 🔭 What I am up to lately:  
-[OSM-Pois Django migration](https://github.com/Elena-GHub/osm-pois)  
-[React-Reduct course](https://github.com/Elena-GHub/react-hello-world) 
-[Other challenges](https://github.com/Elena-GHub/00_Katas) 
+### 🔭 What I am up to lately:  
+- [OSM-Pois Django migration](https://github.com/Elena-GHub/osm-pois)  
+- [React-Reduct course](https://github.com/Elena-GHub/react-hello-world)  
+- [Other challenges](https://github.com/Elena-GHub/00_Katas) 
