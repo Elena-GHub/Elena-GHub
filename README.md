@@ -33,4 +33,5 @@ Besides some others that you will find below:call_me_hand:
 ### 🔭 What I am up to lately:  
 - [OSM-Pois Django migration](https://github.com/Elena-GHub/osm-pois)  
 - [React-Reduct course](https://github.com/Elena-GHub/react-hello-world)  
+- [Ruby on Rails crash course 2020](https://github.com/Elena-GHub/foodlog)  
 - [Other challenges](https://github.com/Elena-GHub/00_Katas) 
