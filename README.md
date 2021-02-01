@@ -32,6 +32,6 @@ Besides some others that you will find below:call_me_hand:
 
 ### 🔭 What I am up to lately:  
 - [<img align="left" width="22px" src="https://i7.pngguru.com/preview/10/113/180/django-web-development-web-framework-python-software-framework-django-thumbnail.jpg"/>OSM-Pois Django migration](https://github.com/Elena-GHub/osm-pois)  
-- [<img align="left" width="22px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png"/>React-Reduct course](https://github.com/Elena-GHub/react-hello-world)  
+- [<img align="left" width="22px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png"/>React-Redux course](https://github.com/Elena-GHub/react-hello-world)  
 - [<img align="left" width="22px" src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/development-ruby_on_rails.png"/>Ruby on Rails crash course 2020](https://github.com/Elena-GHub/foodlog)  
 - [Other challenges](https://github.com/Elena-GHub/00_Katas) 
