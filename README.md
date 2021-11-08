@@ -31,7 +31,7 @@ We also had the chance to "dip our feet" in other languages such as **Python** a
 Besides some others that you will find below:call_me_hand:
 
 ### 🔭 What I am up to lately:  
-- 👩‍🎓 In progress...[Curso deAutomatización y Web Scraping](https://appdelante.com/cursos/descripcion/automatizacion-y-web-scraping-con-node-js) de Appdelante
+- 👩‍🎓 In progress...[Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 - 👩‍🎓 In progress...[The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) 
 - In progress...[<img align="left" width="22px" src="https://i7.pngguru.com/preview/10/113/180/django-web-development-web-framework-python-software-framework-django-thumbnail.jpg"/>OSM-Pois Django migration](https://github.com/humitos/osm-pois/tree/django)  
 - In progress...[<img align="left" width="22px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png"/>React-Redux course](https://github.com/Elena-GHub/react-hello-world)  
